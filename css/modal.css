@@ -2,10 +2,11 @@
   border-radius: 15px;
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 15px;
+  margin-left: 9px;
   position: absolute;
   opacity: 0;
   z-index: 1;
+  transition:max-height 1s;
 }
 
 #myImg:hover {
